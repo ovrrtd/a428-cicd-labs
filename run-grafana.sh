@@ -1,0 +1,1 @@
+docker run -d --name grafana -p 3031:3000 grafana/grafana

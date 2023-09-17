@@ -1,0 +1,1 @@
+docker run -d --name prometheus -p 9091:9090 prom/prometheus
